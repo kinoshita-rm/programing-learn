@@ -37,6 +37,8 @@ if __name__ == "__main__":
     hy = get_n(295000, 20)
     # 菅沼洋一郎
     sy = get_n(220000, 35)
+    #安達道彦
+    am = get_n(310000, 20)
     # 菊池章
     ka = get_a(90, 1200)
     # 山岸柑奈
@@ -52,4 +54,5 @@ if __name__ == "__main__":
     print(f' 菊池章 = {int(ka)}')
     print(f' 山岸柑奈 = {int(yk)}')
     print(f' 浜口知実 = {int(ht)}'))
+    print(f' 安達道彦 = {int(am)}')
     print(f' 望月由文 = {int(my)}'))
