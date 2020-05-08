@@ -26,7 +26,7 @@ def get_a(time, unit):
 
 if __name__ == "__main__":
 	#浜口知実
-	ht = get_m(360000, 30000)
+	ht = get_m(360000, 40000)
     # 寺尾哲雄
     tt = get_m(350000, 80000)
     # 若林仁継
