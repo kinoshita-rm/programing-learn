@@ -41,6 +41,8 @@ if __name__ == "__main__":
     ka = get_a(90, 1200)
     # 山岸柑奈
     yk = get_a(120, 1000)
+    #望月由文
+    my = get_a(90, 1100)
     # 給与振込額の表示
     print(f' 寺尾哲雄 = {int(tt)}')
     print(f' 若林仁継 = {int(wh)}')
@@ -50,3 +52,4 @@ if __name__ == "__main__":
     print(f' 菊池章 = {int(ka)}')
     print(f' 山岸柑奈 = {int(yk)}')
     print(f' 浜口知実 = {int(ht)}'))
+    print(f' 望月由文 = {int(my)}'))
