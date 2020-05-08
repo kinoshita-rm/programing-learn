@@ -25,6 +25,8 @@ def get_a(time, unit):
 
 
 if __name__ == "__main__":
+	#浜口知実
+	ht = get_m(360000, 30000)
     # 寺尾哲雄
     tt = get_m(350000, 80000)
     # 若林仁継
@@ -47,3 +49,4 @@ if __name__ == "__main__":
     print(f' 菅沼洋一郎 = {int(sy)}')
     print(f' 菊池章 = {int(ka)}')
     print(f' 山岸柑奈 = {int(yk)}')
+    print(f' 浜口知実 = {int(ht)}'))
