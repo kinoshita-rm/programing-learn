@@ -4,7 +4,7 @@ import math
 
 
 def get_m(k, y):
-    s = (k+y)*15/100
+    s = (k+y)*17/100
     m = k + y - round(s, -1)-(k+y-round(s, -1))*10/100
     return m
 # 一般社員
@@ -13,7 +13,7 @@ def get_m(k, y):
 def get_n(k, z_time):
     z_unit = (k/160*1.25)/10
     z = z_time*math.floor(z_unit)*10
-    s = (k+z)*15/100
+    s = (k+z)*17/100
     n = k+z-round(s, -1) -(k+z-round(s, -1))*10/100
     return n
 # アルバイト
